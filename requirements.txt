@@ -1,7 +1,8 @@
-plotly
-scikit-learn
-scipy
-yfinance
+streamlit
 pandas
 numpy
-streamlit
+plotly
+scipy
+scikit-learn
+yfinance
+matplotlib
