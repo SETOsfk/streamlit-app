@@ -5,4 +5,5 @@ plotly
 scipy
 scikit-learn
 yfinance
+statsmodels
 matplotlib
