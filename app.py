@@ -1,3 +1,11 @@
+"""Consumer shopping panel — what a synthetic dataset can and cannot tell you.   streamlit run app.py
+Numbers come from results/audit.json (python python/audit.py); the charts are computed live from the CSV."""
+import json
+from pathlib import Path
+
+import numpy as np
+import pandas as pd
+import plotly.express as px
 import streamlit as st
 import matplotlib.pyplot as plt
 
