@@ -7,3 +7,6 @@ scikit-learn
 yfinance
 statsmodels
 matplotlib
+seaborn
+fuzzy-c-means
+scikit-learn-extra
